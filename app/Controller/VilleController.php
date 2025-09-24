@@ -1,7 +1,6 @@
 <?php
 
 namespace Controller;
-
 use Studoo\EduFramework\Core\Controller\ControllerInterface;
 use Studoo\EduFramework\Core\Controller\Request;
 use Studoo\EduFramework\Core\View\TwigCore;
