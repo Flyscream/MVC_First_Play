@@ -1,0 +1,12 @@
+l-i-c-e-n-s-e:
+    uri: /l-i-c-e-n-s-e
+    controller: Controller\LICENSEController
+    httpMethod: [GET]
+hello:
+    uri: /Bonjour
+    controller: Controller\HelloController
+    httpMethod: [GET]
+ville:
+    uri: /lesvilles
+    controller: Controller\VilleController
+    httpMethod: [GET,POST]
